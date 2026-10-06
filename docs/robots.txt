@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://USERNAME.github.io/subbo/sitemap.xml
+Sitemap: https://burcugrny.github.io/subbo/sitemap.xml
